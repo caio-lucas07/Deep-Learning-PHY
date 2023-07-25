@@ -12,5 +12,5 @@ A single-user scenario with the AWGN (Additive White Gaussian Noise) channel mod
 
 ### Project Structure
 + *Caio-Lucas-undergrad-thesis.pdf* - the thesis file in which one can read for a better and deeper understanding of the proposed problem and solution. 
-+ *coded-systems.ipynb* refers to the comparison between the Autoencoders and a mobile communication chain **with** encoding/decoding part (with modulation/demodulation + encoding/decoding blocks).
++ *coded-systems.ipynb* refers to the comparison between the Autoencoders and a mobile communication chain **with** encoding/decoding part (modulation/demodulation + encoding/decoding blocks).
 + *uncoded-systems.ipynb* refers to the comparison between the Autoencoders and a mobile communication chain **without** encoding part (only with modulation/demodulation blocks).
